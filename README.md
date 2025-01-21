@@ -19,9 +19,13 @@ This system automates plant irrigation by:
 
   . Providing critical notifications when water levels are low in the reservoir.
 
+
+  
 (II) Motive of the Project
 
 The primary goal of this project is to reduce manual effort in plant care and promote efficient water usage by automating the irrigation process. It ensures that plants are watered based on their needs, helping users maintain healthy plants while conserving water and minimizing waste.
+
+
 
 (III) Materials Required
 
@@ -39,7 +43,7 @@ The primary goal of this project is to reduce manual effort in plant care and pr
 
   7. Power Supply: USB or battery pack
 
-  8.Connecting Wires: For connections between components
+  8. Connecting Wires: For connections between components
 
   9. Breadboard: For prototyping connections
 
@@ -48,6 +52,8 @@ The primary goal of this project is to reduce manual effort in plant care and pr
         . Arduino IDE
 
         . Blynk app (for remote monitoring)
+
+      
 
 (IV) Connections and Setup
 
@@ -92,6 +98,7 @@ a) Hardware Connections
       . Connected to the NO (Normally Open) and COM terminals of the relay
 
       . Powered by an external 12V DC supply
+     
 
 b) Software Setup
 
@@ -118,6 +125,8 @@ b) Software Setup
       . Update the ssid and pass variables with your Wi-Fi credentials.
 
       . Set the BLYNK_AUTH_TOKEN with your Blynk project token.
+
+     
 
 (V) Code Overview
 
