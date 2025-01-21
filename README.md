@@ -19,13 +19,13 @@ This system automates plant irrigation by:
 
   . Providing critical notifications when water levels are low in the reservoir.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 (II) Motive of the Project
 
 The primary goal of this project is to reduce manual effort in plant care and promote efficient water usage by automating the irrigation process. It ensures that plants are watered based on their needs, helping users maintain healthy plants while conserving water and minimizing waste.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (III) Materials Required
 
@@ -53,7 +53,7 @@ The primary goal of this project is to reduce manual effort in plant care and pr
 
         . Blynk app (for remote monitoring)
 
-      
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
 
 (IV) Connections and Setup
 
@@ -126,7 +126,7 @@ b) Software Setup
 
       . Set the BLYNK_AUTH_TOKEN with your Blynk project token.
 
-     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (V) Code Overview
 
