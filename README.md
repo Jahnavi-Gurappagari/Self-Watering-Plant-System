@@ -1,10 +1,9 @@
 # Self-Watering-Plant-System
 
-Self-Watering Plant System
 
 This project demonstrates a self-watering plant system designed to automate irrigation for plants by monitoring soil moisture levels, water tank levels, temperature, and humidity. It uses sensors and a microcontroller to ensure plants are watered adequately while optimizing water usage. Additionally, it integrates with the Blynk platform for real-time monitoring and notifications.
 
-What the Project Does
+(I) What the Project Does
 
 This system automates plant irrigation by:
 
@@ -20,11 +19,11 @@ This system automates plant irrigation by:
 
   . Providing critical notifications when water levels are low in the reservoir.
 
-Motive of the Project
+(II) Motive of the Project
 
 The primary goal of this project is to reduce manual effort in plant care and promote efficient water usage by automating the irrigation process. It ensures that plants are watered based on their needs, helping users maintain healthy plants while conserving water and minimizing waste.
 
-Materials Required
+(III) Materials Required
 
   1. Microcontroller: ESP8266 NodeMCU
 
@@ -50,9 +49,9 @@ Materials Required
 
         . Blynk app (for remote monitoring)
 
-Connections and Setup
+(IV) Connections and Setup
 
-Hardware Connections
+a) Hardware Connections
 
   1. Soil Moisture Sensor:
 
@@ -94,7 +93,7 @@ Hardware Connections
 
       . Powered by an external 12V DC supply
 
-Software Setup
+b) Software Setup
 
   1. Install the Arduino IDE from Arduino's official website.
 
@@ -120,7 +119,7 @@ Software Setup
 
       . Set the BLYNK_AUTH_TOKEN with your Blynk project token.
 
-Code Overview
+(V) Code Overview
 
 The code handles the following tasks:
 
